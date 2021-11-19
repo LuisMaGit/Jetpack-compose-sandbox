@@ -1,4 +1,4 @@
-# Jetpack-compose-sandbox
+# Jetpack compose sandbox
 Simple compose components
 
 ### Very simple compose components
